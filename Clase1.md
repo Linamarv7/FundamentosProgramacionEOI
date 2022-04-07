@@ -41,7 +41,7 @@ fatal: unable to read config file 'C:/Users/WDAGUtilityAccount/.gitconfig': No s
 ​    2.5 Establecemos el usuario y el correo electrónico
 
 ```
-c:>git config --global user.name "BillyClassTime"
+c:>git config --global user.name "Lmarv7"
 ```
 
 ```
