@@ -1,4 +1,4 @@
-# Lenguaje Javascript
+# Lenguaje Javascript - Lina María Vásquez y David Rey de Viñas
 ## Historia 
 JavaScript se introdujo en 1995 como una forma de agregar programas a páginas web en el navegador Netscape Navigator. En los primeros días de la World Wide Web (WWW), era bastante simple y fácil de aprender casi todo lo que se necesitaba saber para agrupar páginas web en HTML. Por tanto, cualquiera podía hacer una web aunando tablas, texto y añadiendo alguna imagen.
 
